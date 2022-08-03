@@ -1,0 +1,12 @@
+[
+    {
+    "dni":44444,
+    "name": "lenin",
+    "salary": 10.00
+    },
+    {
+    "dni":55555,
+    "name": "thiago",
+    "salary": 10.00
+    }
+]
